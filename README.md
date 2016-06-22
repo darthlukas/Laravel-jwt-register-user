@@ -1,6 +1,6 @@
 # Laravel-jwt-register-user
 
-RegisterUser.class
+<strong>RegisterUser.class</strong>
 
-Táto trieda slúži na registráciu nového používateľa , poskytuje validáciu 
-odoslaných údaj a zároveň po úspešnej registrácii pridelí novému použivateľovi vygenerovaný  JWT token . 
+Táto trieda slúži na registráciu nového používateľa , poskytuje metódiu na validáciu 
+odoslaných údajov a zároveň po úspešnej registrácii pridelí novému použivateľovi vygenerovaný  JWT token . 
